@@ -25,3 +25,8 @@ mail: skalaban.ih@gmail.com
 
 The certificate is available here 
 https://lab.karpov.courses/certificate/14bd9725-1cf5-4ab6-b0c9-1533054f6ab6/en/
+
+![2](https://i.ibb.co/PrK56jf/SQL-Certificate.jpg)
+
+The certificate is available here
+https://lab.karpov.courses/certificate/f10d2b81-75c3-4052-b892-db802d61f945/en/
