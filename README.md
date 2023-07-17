@@ -1,16 +1,24 @@
-**ABOUT:**
+👋 **Greetings**!
 
-My name is Igor.
+I'm Igor, and my AIM is crystal clear - I'm an enthusiastic Data Analyst 📈🔍 with a knack for managing large datasets, conducting A/B testing, and crafting insightful dashboards. 📊
 
-In this profile I have posted, some of my academic work, I hope it helps to show a little of my experience.
 
-Having worked as the Head of Sales, I have transitioned into data analysis and honed my skills in Python, SQL, Tableau, and Statistics methods. I can manage
-and analyze large data sets, perform A/B testing, and create informative dashboards.
+I'm on a mission to make a positive impact in a forward-thinking company 🚀, leveraging my strong analytical and problem-solving skills to elevate business strategies. My ultimate aspiration is to unearth valuable insights that lead to tangible results, driving my career to new heights in the captivating realm of data science. 💼
 
-My aim is to utilize my analytical and problem-solving skills to enhance business strategies in a progressive company, as a motivated Junior Data Analyst.
-I am eager to apply my expertise to drive valuable outcomes for the company while advancing my career in the field of data science.
 
-I speak : Russian , English, French
+Speaking English, French, and Russian 🌐,
+I wholeheartedly embrace diversity and flourish in collaborative environments.
+
+Let's connect and embark on a journey together, as we shape a future powered by data! 🤝😃
+
+**Summary** :
+
+📈 Analyzing datasets gets my heart racing!
+
+🌐 Fluent in languages, bridging cultures through data insights!
+
+🚀 On a quest to create a data-driven world!
+
 
 **Contact details:**
 
